@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-smart/static/css/main.f800168d.css",
+    "main.js": "/react-smart/static/js/main.788d32c4.js",
+    "static/js/453.69f3745b.chunk.js": "/react-smart/static/js/453.69f3745b.chunk.js",
+    "index.html": "/react-smart/index.html",
+    "main.f800168d.css.map": "/react-smart/static/css/main.f800168d.css.map",
+    "main.788d32c4.js.map": "/react-smart/static/js/main.788d32c4.js.map",
+    "453.69f3745b.chunk.js.map": "/react-smart/static/js/453.69f3745b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f800168d.css",
+    "static/js/main.788d32c4.js"
+  ]
+}
